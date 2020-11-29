@@ -10,7 +10,7 @@ Para correr um jogo, executar num terminal o seguinte comando, a partir do **dir
 `Caminho/Para/O/Diretório/agent1_alphabetapruning> python client/ficheiro_desejado.py`
 
 Os vários jogos estão no diretório client, e cada um implementa de forma diferente ou o algoritmo minimax ou o alpha-beta pruning. Os nomes são descritivos.  
-Para configurar o número de rondas, alterar o perâmetro correspondente na função main de cada um.  
+Para configurar o número de rondas, alterar o parâmetro correspondente na função main de cada um.  
 Para configurar diferentes aspetos do mapa, alterar os ficheiros correspondentes no diretório input_files  
 
 
