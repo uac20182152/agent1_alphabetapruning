@@ -14,7 +14,7 @@ Para configurar o número de rondas, alterar o parâmetro correspondente na fun�
 Para configurar diferentes aspetos do mapa, alterar os ficheiros correspondentes no diretório input_files  
 
 
-Foi incluída uma demonstração em vídeo da execução do ficheiro alpha_beta_pruning.py com 13 rondas e sem visualização.  
+Foi incluída uma demonstração em vídeo da execução do ficheiro alpha_beta_pruning.py com 13 rondas e sem visualização. Ver o ficheiro demo.mp4.  
 
 O grupo:  
 - Francisco Mendonça  
